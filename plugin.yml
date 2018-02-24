@@ -1,0 +1,8 @@
+main: com.forgottenislands.itemrestrictor.ItemRestrictor
+name: ItemRestrictor
+version: 0.1
+depend: [Towny]
+commands:
+    restrictor:
+        description: restrictor
+        usage: Use /restrictor stats to get the plugin stats
